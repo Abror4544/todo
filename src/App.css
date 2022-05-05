@@ -37,7 +37,7 @@ body {
 .todo-container {
   display: flex;
   flex-direction: column;
-  justify-content: start;
+  justify-content: flex-start;
   width: 520px;
   background: #161a2b;
   text-align: center;
